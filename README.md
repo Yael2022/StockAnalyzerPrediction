@@ -1,2 +1,0 @@
-# StockAnalyzerWithPrediction
-# StockAnalyzerPrediction
